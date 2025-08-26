@@ -33,6 +33,7 @@
   # I2C location configured by PCDs below.
   #
   DEFINE RK_RTC8563_ENABLE = TRUE
+  DEFINE RK3588_PCIE_ENABLE = FALSE 
 
   #
   # RK3588S-based platform

@@ -34,6 +34,7 @@
   #
   DEFINE RK_RTC8563_ENABLE = TRUE
 
+  DEFINE RK_STATUS_LED_ENABLE = FALSE
   #
   # PCA95XX GPIO extender support
   # I2C location configured by PCDs below.
